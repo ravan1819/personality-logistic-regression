@@ -99,5 +99,5 @@ This project uses a dataset of behavioral and psychological traits to predict wh
 1. Clone this repo:
    
 bash
-   git clone https://github.com/yourusername/personality-logistic-regression.git
+   git clone https://github.com/ravan1819/personality-logistic-regression.git
    cd personality-logistic-regression
