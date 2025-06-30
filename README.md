@@ -6,7 +6,6 @@ This project uses a dataset of behavioral and psychological traits to predict wh
 
 ## 📁 Project Structure
 
-
 ---
 
 ## 📊 Features Used
@@ -44,8 +43,6 @@ This project uses a dataset of behavioral and psychological traits to predict wh
 | Accuracy | *93%* |
 | ROC-AUC  | *0.96* |
 
-> Replace XX and YY with actual values from your results.
-
 ---
 
 ## 📷 Visual Highlights
@@ -56,7 +53,11 @@ This project uses a dataset of behavioral and psychological traits to predict wh
   <em>ROC Curve for Personality Classification</em>
 </p>
 
----
+---![Accuracy](https://github.com/user-attachments/assets/91fe67df-89f0-49d1-9131-8b4ff3e6569d)
+![Confusin_Matrix](https://github.com/user-attachments/assets/1b7b7adf-172e-41b5-b691-54eac8ca808f)
+![ROC](https://github.com/user-attachments/assets/868dc3cd-a70e-4cef-855f-cfb67da7d7f3)
+
+
 
 ## 🚀 How to Run
 
